@@ -1,0 +1,694 @@
+fileFormatVersion: 2
+guid: 8bcface0b0a86cb44b1e5d29c18cfa9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -751111440731625923
+    second: ucakpatlama-Sheet_0
+  - first:
+      213: -2433226396347479251
+    second: ucakpatlama-Sheet_1
+  - first:
+      213: -5947409509259907308
+    second: ucakpatlama-Sheet_2
+  - first:
+      213: 5093561917854927989
+    second: ucakpatlama-Sheet_3
+  - first:
+      213: 2300161233916781260
+    second: ucakpatlama-Sheet_4
+  - first:
+      213: -306446385837600149
+    second: ucakpatlama-Sheet_5
+  - first:
+      213: 8977846098308261955
+    second: ucakpatlama-Sheet_6
+  - first:
+      213: 3569926591159244742
+    second: ucakpatlama-Sheet_7
+  - first:
+      213: -2301165030203652327
+    second: ucakpatlama-Sheet_8
+  - first:
+      213: -2217797692680952647
+    second: ucakpatlama-Sheet_9
+  - first:
+      213: 1596062896188270673
+    second: ucakpatlama-Sheet_10
+  - first:
+      213: 1071344111125214682
+    second: ucakpatlama-Sheet_11
+  - first:
+      213: 7445367474119931492
+    second: ucakpatlama-Sheet_12
+  - first:
+      213: 6990978474075049783
+    second: ucakpatlama-Sheet_13
+  - first:
+      213: -5879545533827606647
+    second: ucakpatlama-Sheet_14
+  - first:
+      213: 2204396078691370192
+    second: ucakpatlama-Sheet_15
+  - first:
+      213: -6373756546223297089
+    second: ucakpatlama-Sheet_16
+  - first:
+      213: 8089745545384009176
+    second: ucakpatlama-Sheet_17
+  - first:
+      213: 164989560889052467
+    second: ucakpatlama-Sheet_18
+  - first:
+      213: -5556759640542092366
+    second: ucakpatlama-Sheet_19
+  - first:
+      213: 8960939584915837788
+    second: ucakpatlama-Sheet_20
+  - first:
+      213: -7126201509548542679
+    second: ucakpatlama-Sheet_21
+  - first:
+      213: 8176964016852125974
+    second: ucakpatlama-Sheet_22
+  - first:
+      213: -6478592961801583552
+    second: ucakpatlama-Sheet_23
+  - first:
+      213: -4209413539272050566
+    second: ucakpatlama-Sheet_24
+  - first:
+      213: -285918216761301775
+    second: ucakpatlama-Sheet_25
+  - first:
+      213: 4676050403333382109
+    second: ucakpatlama-Sheet_26
+  - first:
+      213: -2967722562231433698
+    second: ucakpatlama-Sheet_27
+  - first:
+      213: 53789568276232408
+    second: ucakpatlama-Sheet_28
+  - first:
+      213: 1027690309537518662
+    second: ucakpatlama-Sheet_29
+  - first:
+      213: 4633712219074031426
+    second: ucakpatlama-Sheet_30
+  - first:
+      213: -6402629021904883541
+    second: ucakpatlama-Sheet_31
+  - first:
+      213: -4770457770783103907
+    second: ucakpatlama-Sheet_32
+  - first:
+      213: 6266593918993390969
+    second: ucakpatlama-Sheet_33
+  - first:
+      213: 7702494260376789092
+    second: ucakpatlama-Sheet_34
+  - first:
+      213: -7409239826003945968
+    second: ucakpatlama-Sheet_35
+  - first:
+      213: -2684276334738364599
+    second: ucakpatlama-Sheet_36
+  - first:
+      213: -205959686736512968
+    second: ucakpatlama-Sheet_37
+  - first:
+      213: -3051556757108744309
+    second: ucakpatlama-Sheet_38
+  - first:
+      213: 5473717202448422314
+    second: ucakpatlama-Sheet_39
+  - first:
+      213: 8507513556609284840
+    second: ucakpatlama-Sheet_40
+  - first:
+      213: -4178484390180139019
+    second: ucakpatlama-Sheet_41
+  - first:
+      213: -729475118303916826
+    second: ucakpatlama-Sheet_42
+  - first:
+      213: 2830420470767524831
+    second: ucakpatlama-Sheet_43
+  - first:
+      213: 7165337172483234014
+    second: ucakpatlama-Sheet_44
+  - first:
+      213: -6980238205467672111
+    second: ucakpatlama-Sheet_45
+  - first:
+      213: -209505981667235167
+    second: ucakpatlama-Sheet_46
+  - first:
+      213: -8295826410835011026
+    second: ucakpatlama-Sheet_47
+  - first:
+      213: -3441613916332559838
+    second: ucakpatlama-Sheet_48
+  - first:
+      213: 6530607337324772196
+    second: ucakpatlama-Sheet_49
+  - first:
+      213: 605251061302819780
+    second: ucakpatlama-Sheet_50
+  - first:
+      213: 6294641869823714882
+    second: ucakpatlama-Sheet_51
+  - first:
+      213: -3534251105347730833
+    second: ucakpatlama-Sheet_52
+  - first:
+      213: -4236762659832435548
+    second: ucakpatlama-Sheet_53
+  - first:
+      213: -3535386784633921401
+    second: ucakpatlama-Sheet_54
+  - first:
+      213: 963396437397481071
+    second: ucakpatlama-Sheet_55
+  - first:
+      213: -8804579604004202479
+    second: ucakpatlama-Sheet_56
+  - first:
+      213: 4271331282495058831
+    second: ucakpatlama-Sheet_57
+  - first:
+      213: 2779943299200709579
+    second: ucakpatlama-Sheet_58
+  - first:
+      213: -8695671043140620601
+    second: ucakpatlama-Sheet_59
+  - first:
+      213: 9036109922106459014
+    second: ucakpatlama-Sheet_60
+  - first:
+      213: -2841739688618455851
+    second: ucakpatlama-Sheet_61
+  - first:
+      213: -318934816276083979
+    second: ucakpatlama-Sheet_62
+  - first:
+      213: -6401364752128670324
+    second: ucakpatlama-Sheet_63
+  - first:
+      213: -5358717479641518864
+    second: ucakpatlama-Sheet_64
+  - first:
+      213: 4705753293082465232
+    second: ucakpatlama-Sheet_65
+  - first:
+      213: 3974854326426233646
+    second: ucakpatlama-Sheet_66
+  - first:
+      213: 3093817791376870618
+    second: ucakpatlama-Sheet_67
+  - first:
+      213: 4878308297856647095
+    second: ucakpatlama-Sheet_68
+  - first:
+      213: 5035196645189987831
+    second: ucakpatlama-Sheet_69
+  - first:
+      213: -6459098408836411289
+    second: ucakpatlama-Sheet_70
+  - first:
+      213: -7812603046418485862
+    second: ucakpatlama-Sheet_71
+  - first:
+      213: 8695629800066165330
+    second: ucakpatlama-Sheet_72
+  - first:
+      213: -6241951732596100024
+    second: ucakpatlama-Sheet_73
+  - first:
+      213: -2991391145964817888
+    second: ucakpatlama-Sheet_74
+  - first:
+      213: 2573297647259911912
+    second: ucakpatlama-Sheet_75
+  - first:
+      213: -6358656445027437431
+    second: ucakpatlama-Sheet_76
+  - first:
+      213: -5810671652455791295
+    second: ucakpatlama-Sheet_77
+  - first:
+      213: 1929604293357037782
+    second: ucakpatlama-Sheet_78
+  - first:
+      213: 7008045660019670331
+    second: ucakpatlama-Sheet_79
+  - first:
+      213: 8264266822307748383
+    second: ucakpatlama-Sheet_80
+  - first:
+      213: 34961885793066505
+    second: ucakpatlama-Sheet_81
+  - first:
+      213: 3052663070427712065
+    second: ucakpatlama-Sheet_82
+  - first:
+      213: -8188409041354976222
+    second: ucakpatlama-Sheet_83
+  - first:
+      213: -148313750932591996
+    second: ucakpatlama-Sheet_84
+  - first:
+      213: -6282471525581132305
+    second: ucakpatlama-Sheet_85
+  - first:
+      213: 7929215992955950904
+    second: ucakpatlama-Sheet_86
+  - first:
+      213: -6249127037538222122
+    second: ucakpatlama-Sheet_87
+  - first:
+      213: -7711980254557588433
+    second: ucakpatlama-Sheet_88
+  - first:
+      213: 4149004781427604627
+    second: ucakpatlama-Sheet_89
+  - first:
+      213: 6186974835893112136
+    second: ucakpatlama-Sheet_90
+  - first:
+      213: 57672785277416595
+    second: ucakpatlama-Sheet_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 157
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36a57ccf148395f0800000000000000
+      internalID: -751111440731625923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2bca9bfb717b3ed0800000000000000
+      internalID: -2433226396347479251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f68c2ef8e867da0800000000000000
+      internalID: -5947409509259907308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57c4333d397ffa640800000000000000
+      internalID: 5093561917854927989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ebb99470dbef10800000000000000
+      internalID: 2300161233916781260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62927db2a84fbbf0800000000000000
+      internalID: -306446385837600149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3486ac1b577b79c70800000000000000
+      internalID: 8977846098308261955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c79444025dea8130800000000000000
+      internalID: 3569926591159244742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917092dd89e9010e0800000000000000
+      internalID: -2301165030203652327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b42218bfbcc831e0800000000000000
+      internalID: -2217797692680952647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abb7aac550d491428406d1b16b13e35
+      internalID: 2138164495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccd32530a86dd4a8293bb9f8dd9fbf
+      internalID: -236760432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ucakpatlama-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 0
+        width: 448
+        height: 448
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea141e60935f02f498eebe4ec84ab087
+      internalID: 1100932270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 20097e5ddcf6f7943a2afd477af4140a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":13.0,"y":1.0},"gridSpriteSize":{"x":448.0,"y":448.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":true,"isAlternate":false}'
+    nameFileIdTable:
+      ucakpatlama-Sheet_0: -751111440731625923
+      ucakpatlama-Sheet_1: -2433226396347479251
+      ucakpatlama-Sheet_10: 2138164495
+      ucakpatlama-Sheet_11: -236760432
+      ucakpatlama-Sheet_12: 1100932270
+      ucakpatlama-Sheet_2: -5947409509259907308
+      ucakpatlama-Sheet_3: 5093561917854927989
+      ucakpatlama-Sheet_4: 2300161233916781260
+      ucakpatlama-Sheet_5: -306446385837600149
+      ucakpatlama-Sheet_6: 8977846098308261955
+      ucakpatlama-Sheet_7: 3569926591159244742
+      ucakpatlama-Sheet_8: -2301165030203652327
+      ucakpatlama-Sheet_9: -2217797692680952647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

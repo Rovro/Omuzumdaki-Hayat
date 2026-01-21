@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\MAGARAGAMJAM2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB78AD6-5580-1F3D-03E0-7B4E032890A0}|Assembly-CSharp.csproj|d:\\unity\\magaragamjam2025\\assets\\scripts\\player\\stretchertowdampenerpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB78AD6-5580-1F3D-03E0-7B4E032890A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\stretchertowdampenerpro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAB78AD6-5580-1F3D-03E0-7B4E032890A0}|Assembly-CSharp.csproj|d:\\unity\\magaragamjam2025\\assets\\scripts\\player\\ropevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAB78AD6-5580-1F3D-03E0-7B4E032890A0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\ropevisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StretcherTowDampenerPro.cs",
+              "DocumentMoniker": "D:\\Unity\\MAGARAGAMJAM2025\\Assets\\Scripts\\Player\\StretcherTowDampenerPro.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\StretcherTowDampenerPro.cs",
+              "ToolTip": "D:\\Unity\\MAGARAGAMJAM2025\\Assets\\Scripts\\Player\\StretcherTowDampenerPro.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\StretcherTowDampenerPro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T12:35:34.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RopeVisual.cs",
+              "DocumentMoniker": "D:\\Unity\\MAGARAGAMJAM2025\\Assets\\Scripts\\Player\\RopeVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\RopeVisual.cs",
+              "ToolTip": "D:\\Unity\\MAGARAGAMJAM2025\\Assets\\Scripts\\Player\\RopeVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\RopeVisual.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T10:37:24.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

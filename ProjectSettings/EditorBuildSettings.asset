@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: b05168b1692a2334485b56ba3d9537b9
+  - enabled: 1
+    path: Assets/Scenes/CoreScene.unity
+    guid: 5f596275726faef408610c3739f8c0a7
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/DaySniperScene.unity
+    guid: 9df59693940aa8645973b98666d2e993
+  - enabled: 1
+    path: Assets/Scenes/NightMineScene.unity
+    guid: d3ccb50798d625446a0ef2944431bc68
+  - enabled: 1
+    path: Assets/Scenes/BombardmentScene.unity
+    guid: 383b466dc1a2e594ca1e32ecd82227ae
+  - enabled: 1
+    path: Assets/Scenes/ENDGAME.unity
+    guid: 9211cfe19d4cd034186eaea39044e412
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 84ed4151712743f4b9dbdcf32da1bc1e, type: 3}
+  m_UseUCBPForAssetBundles: 0

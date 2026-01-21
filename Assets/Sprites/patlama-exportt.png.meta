@@ -1,0 +1,634 @@
+fileFormatVersion: 2
+guid: cc6e365a7453dc444909c8671a45aa4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7976067974984315539
+    second: patlama-exportt_0
+  - first:
+      213: -440718546178802359
+    second: patlama-exportt_1
+  - first:
+      213: -4330973638186457471
+    second: patlama-exportt_2
+  - first:
+      213: -1398711041096410268
+    second: patlama-exportt_3
+  - first:
+      213: 1664385459584675929
+    second: patlama-exportt_4
+  - first:
+      213: 1166289500742501819
+    second: patlama-exportt_5
+  - first:
+      213: 4544592370796302327
+    second: patlama-exportt_6
+  - first:
+      213: -2930731661223062337
+    second: patlama-exportt_7
+  - first:
+      213: 4159065535351204620
+    second: patlama-exportt_8
+  - first:
+      213: 2344844137636513136
+    second: patlama-exportt_9
+  - first:
+      213: -2462630179932194251
+    second: patlama-exportt_10
+  - first:
+      213: 6496888073515314743
+    second: patlama-exportt_11
+  - first:
+      213: -3942692021470706406
+    second: patlama-exportt_12
+  - first:
+      213: 4775070909235323246
+    second: patlama-exportt_13
+  - first:
+      213: 2189122809931967381
+    second: patlama-exportt_14
+  - first:
+      213: 1837031594031535500
+    second: patlama-exportt_15
+  - first:
+      213: -314870050152134654
+    second: patlama-exportt_16
+  - first:
+      213: 3096967310664183520
+    second: patlama-exportt_17
+  - first:
+      213: -8700830042815945090
+    second: patlama-exportt_18
+  - first:
+      213: -6663256485900629061
+    second: patlama-exportt_19
+  - first:
+      213: 2090920191059900225
+    second: patlama-exportt_20
+  - first:
+      213: -6955292033559827398
+    second: patlama-exportt_21
+  - first:
+      213: 3012272033069387054
+    second: patlama-exportt_22
+  - first:
+      213: 4175115311102662412
+    second: patlama-exportt_23
+  - first:
+      213: -3801926221114633268
+    second: patlama-exportt_24
+  - first:
+      213: -5582778055664682563
+    second: patlama-exportt_25
+  - first:
+      213: -6814720430774072227
+    second: patlama-exportt_26
+  - first:
+      213: -7215580803669675683
+    second: patlama-exportt_27
+  - first:
+      213: 7704431267137951891
+    second: patlama-exportt_28
+  - first:
+      213: -95274939009437310
+    second: patlama-exportt_29
+  - first:
+      213: 5673456893284224733
+    second: patlama-exportt_30
+  - first:
+      213: 8503200707871437955
+    second: patlama-exportt_31
+  - first:
+      213: -1398820537383514991
+    second: patlama-exportt_32
+  - first:
+      213: 3627243765843477254
+    second: patlama-exportt_33
+  - first:
+      213: -946527784473106780
+    second: patlama-exportt_34
+  - first:
+      213: -7405575919985662283
+    second: patlama-exportt_35
+  - first:
+      213: -4240053695439167188
+    second: patlama-exportt_36
+  - first:
+      213: -1978367288258813545
+    second: patlama-exportt_37
+  - first:
+      213: -454141495185641930
+    second: patlama-exportt_38
+  - first:
+      213: 1753429377638162619
+    second: patlama-exportt_39
+  - first:
+      213: -2167075269351022608
+    second: patlama-exportt_40
+  - first:
+      213: 5462212745962291597
+    second: patlama-exportt_41
+  - first:
+      213: 1145325160057990296
+    second: patlama-exportt_42
+  - first:
+      213: 4317875088719602091
+    second: patlama-exportt_43
+  - first:
+      213: 6606679180116865182
+    second: patlama-exportt_44
+  - first:
+      213: 8610199642460979003
+    second: patlama-exportt_45
+  - first:
+      213: 4215786095550609057
+    second: patlama-exportt_46
+  - first:
+      213: -57808365059214063
+    second: patlama-exportt_47
+  - first:
+      213: -8944954265427461436
+    second: patlama-exportt_48
+  - first:
+      213: -5225210651586016759
+    second: patlama-exportt_49
+  - first:
+      213: -39464073371281384
+    second: patlama-exportt_50
+  - first:
+      213: -7803469356466605420
+    second: patlama-exportt_51
+  - first:
+      213: 7866112565856998864
+    second: patlama-exportt_52
+  - first:
+      213: -4091596902825218814
+    second: patlama-exportt_53
+  - first:
+      213: -619776778636162872
+    second: patlama-exportt_54
+  - first:
+      213: 9215630063120778924
+    second: patlama-exportt_55
+  - first:
+      213: -7035774503489562414
+    second: patlama-exportt_56
+  - first:
+      213: 4753380082962130980
+    second: patlama-exportt_57
+  - first:
+      213: -5863714933628195603
+    second: patlama-exportt_58
+  - first:
+      213: -7967777489368869952
+    second: patlama-exportt_59
+  - first:
+      213: -5742831748204373140
+    second: patlama-exportt_60
+  - first:
+      213: 3895015022116957496
+    second: patlama-exportt_61
+  - first:
+      213: -7774145036059849539
+    second: patlama-exportt_62
+  - first:
+      213: -2146083215185775998
+    second: patlama-exportt_63
+  - first:
+      213: -128639630617559918
+    second: patlama-exportt_64
+  - first:
+      213: 2576997035428777637
+    second: patlama-exportt_65
+  - first:
+      213: -1753398114887282712
+    second: patlama-exportt_66
+  - first:
+      213: 4479779697719057785
+    second: patlama-exportt_67
+  - first:
+      213: -5133300079396648038
+    second: patlama-exportt_68
+  - first:
+      213: -4712624334883767852
+    second: patlama-exportt_69
+  - first:
+      213: -185902342520966722
+    second: patlama-exportt_70
+  - first:
+      213: -3097681149731405086
+    second: patlama-exportt_71
+  - first:
+      213: -3408347982345740942
+    second: patlama-exportt_72
+  - first:
+      213: -7153698552803454646
+    second: patlama-exportt_73
+  - first:
+      213: -3035676216653647537
+    second: patlama-exportt_74
+  - first:
+      213: 3842528163322784806
+    second: patlama-exportt_75
+  - first:
+      213: 2204758015616940801
+    second: patlama-exportt_76
+  - first:
+      213: -2542752514541037774
+    second: patlama-exportt_77
+  - first:
+      213: -5128784005406260795
+    second: patlama-exportt_78
+  - first:
+      213: -9085993682464937435
+    second: patlama-exportt_79
+  - first:
+      213: 5981529453297898509
+    second: patlama-exportt_80
+  - first:
+      213: -849370475446466211
+    second: patlama-exportt_81
+  - first:
+      213: -9176181490864259774
+    second: patlama-exportt_82
+  - first:
+      213: 1860222400263689647
+    second: patlama-exportt_83
+  - first:
+      213: -5255757572760648444
+    second: patlama-exportt_84
+  - first:
+      213: -4195455984440570610
+    second: patlama-exportt_85
+  - first:
+      213: -3866714969763651005
+    second: patlama-exportt_86
+  - first:
+      213: 6683184327152128373
+    second: patlama-exportt_87
+  - first:
+      213: -5996227594194025212
+    second: patlama-exportt_88
+  - first:
+      213: -6846842414082336249
+    second: patlama-exportt_89
+  - first:
+      213: 2933484978835791057
+    second: patlama-exportt_90
+  - first:
+      213: -5845501029000884277
+    second: patlama-exportt_91
+  - first:
+      213: -6474498761559045049
+    second: patlama-exportt_92
+  - first:
+      213: -7349345596957821083
+    second: patlama-exportt_93
+  - first:
+      213: -181449543756823729
+    second: patlama-exportt_94
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: patlama-exportt_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dc0be8f605f4190800000000000000
+      internalID: -7976067974984315539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94df51931d042e9f0800000000000000
+      internalID: -440718546178802359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186a05c2c6a45e3c0800000000000000
+      internalID: -4330973638186457471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b180408b7c69ce0800000000000000
+      internalID: -1398711041096410268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bed7d1c5191710800000000000000
+      internalID: 1664385459584675929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb546052f1e7f2010800000000000000
+      internalID: 1166289500742501819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff8346dea2a11f30800000000000000
+      internalID: 4544592370796302327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_7
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb41fc0f413f357d0800000000000000
+      internalID: -2930731661223062337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bad289118f7b930800000000000000
+      internalID: 4159065535351204620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: patlama-exportt_9
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 0
+        width: 191
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126e719d92f3e742a12743c9cd80be2
+      internalID: -919004251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32e071a07abd5604e83e026ef51f3502
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":10.0,"y":1.0},"gridSpriteSize":{"x":192.0,"y":192.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      patlama-exportt_0: -7976067974984315539
+      patlama-exportt_1: -440718546178802359
+      patlama-exportt_2: -4330973638186457471
+      patlama-exportt_3: -1398711041096410268
+      patlama-exportt_4: 1664385459584675929
+      patlama-exportt_5: 1166289500742501819
+      patlama-exportt_6: 4544592370796302327
+      patlama-exportt_7: -2930731661223062337
+      patlama-exportt_8: 4159065535351204620
+      patlama-exportt_9: -919004251
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

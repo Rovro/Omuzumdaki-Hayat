@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 0a3a6c51c044a3f48a6cf1c32a23e583
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9012762196598107944
+    second: mayn_0
+  - first:
+      213: -2692188024108382847
+    second: mayn_1
+  - first:
+      213: -686239162199444504
+    second: mayn_2
+  - first:
+      213: 9122386435397203409
+    second: mayn_3
+  - first:
+      213: -8673740700632113326
+    second: mayn_4
+  - first:
+      213: -8674052953880626493
+    second: mayn_5
+  - first:
+      213: 6185486504324297070
+    second: mayn_6
+  - first:
+      213: 5612954997121385786
+    second: mayn_7
+  - first:
+      213: -8689369587059778941
+    second: mayn_8
+  - first:
+      213: 851222120130507156
+    second: mayn_9
+  - first:
+      213: -4908301520717163480
+    second: mayn_10
+  - first:
+      213: -5483467298028360254
+    second: mayn_11
+  - first:
+      213: 5746523931708444174
+    second: mayn_12
+  - first:
+      213: 8780840581560905640
+    second: mayn_13
+  - first:
+      213: 4453910936338080245
+    second: mayn_14
+  - first:
+      213: 2953742188038514507
+    second: mayn_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mayn_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d053baa88c3ce280800000000000000
+      internalID: -9012762196598107944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1858572814d63aad0800000000000000
+      internalID: -2692188024108382847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3f32a2e1df976f0800000000000000
+      internalID: -686239162199444504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_3
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d531b9612a399e70800000000000000
+      internalID: 9122386435397203409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f99f8c9cea0a780800000000000000
+      internalID: -8673740700632113326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_5
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca7409abc29f9780800000000000000
+      internalID: -8674052953880626493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_6
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61f83d143347d550800000000000000
+      internalID: 6185486504324297070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_7
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a358ca7c4d835ed40800000000000000
+      internalID: 5612954997121385786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_8
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a18391668296780800000000000000
+      internalID: -8689369587059778941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_9
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491755f120620db00800000000000000
+      internalID: 851222120130507156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_10
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824d42fa5c532ebb0800000000000000
+      internalID: -4908301520717163480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_11
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd6c8b8b8fc6e3b0800000000000000
+      internalID: -5483467298028360254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_12
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e43cac111cfbf40800000000000000
+      internalID: 5746523931708444174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_13
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa54d6cffcbd970800000000000000
+      internalID: 8780840581560905640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_14
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1a8a516687fcd30800000000000000
+      internalID: 4453910936338080245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mayn_15
+      rect:
+        serializedVersion: 2
+        x: 2897
+        y: 23
+        width: 158
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47ee14dedccdf820800000000000000
+      internalID: 2953742188038514507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mayn_0: -9012762196598107944
+      mayn_1: -2692188024108382847
+      mayn_10: -4908301520717163480
+      mayn_11: -5483467298028360254
+      mayn_12: 5746523931708444174
+      mayn_13: 8780840581560905640
+      mayn_14: 4453910936338080245
+      mayn_15: 2953742188038514507
+      mayn_2: -686239162199444504
+      mayn_3: 9122386435397203409
+      mayn_4: -8673740700632113326
+      mayn_5: -8674052953880626493
+      mayn_6: 6185486504324297070
+      mayn_7: 5612954997121385786
+      mayn_8: -8689369587059778941
+      mayn_9: 851222120130507156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
